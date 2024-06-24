@@ -8,7 +8,6 @@ Hello there! I'm maji. 👋 Web/Game Developer from <img src="https://github.com
 
 - <img src="https://github.com/maji-git/maji-git/assets/150906506/24d6917d-d9ec-425f-8322-d0d14c9dab99" height="18"> [MultiPlay Core](https://github.com/maji-git/multiplay-core) Multiplayer Framework for Godot
 - <img src="https://github.com/maji-git/maji-git/assets/150906506/6b2ba704-1f15-4d5f-a2e8-6a106ed3bacc" height="18"> [file consumer.exe](https://github.com/maji-git/file-eater) program that consume your file (literally)
-- <img src="https://github.com/maji-git/maji-git/assets/150906506/da3720d0-e6e0-4163-b31c-0e8ed0ed5d06" height="18"> **Twin Palette** 2 Player Color Mixing Puzzle game, Entry for NSC 67 (WIP)
 
 ## Contacts <img src="https://github.com/maji-git/maji-git/assets/150906506/6cdc0ecb-7ea2-4007-ae6b-993dae705c1a" height="32">
 
