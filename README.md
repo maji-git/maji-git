@@ -24,6 +24,6 @@ Hello there! I'm maji. 👋 Web/Game Developer from <img src="https://github.com
 
 hi maji! [himaji.xyz](https://himaji.xyz/)
 
-![viewcount](https://statsview.himaji.xyz/stats?size=30&shareID=783GL11YmT5Tyuw7&v=2)
+![viewcount](https://statsview.himaji.xyz/stats?size=30&shareID=783GL11YmT5Tyuw7&v=4)
 
 </div>
