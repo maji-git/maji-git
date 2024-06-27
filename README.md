@@ -12,6 +12,7 @@ Hello there! I'm maji. 👋 Web/Game Developer from <img src="https://github.com
 ## Contacts <img src="https://github.com/maji-git/maji-git/assets/150906506/6cdc0ecb-7ea2-4007-ae6b-993dae705c1a" height="32">
 
 - Discord: `to.maji`
+- Twitter: [@_maji_dev](https://x.com/_maji_dev)
 - Email: maji@himaji.xyz
 
 <hr>
