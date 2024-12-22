@@ -18,12 +18,6 @@ Hello there! I'm maji. 👋 Web/Game Developer from <img src="https://github.com
 
 <hr>
 
-<div>
-<h3>Liked my work?</h3>
-<p>You can support my work by <a href="https://studio.buymeacoffee.com/dashboard">buying me a balloon.</a>, Every donations are appreciated! 💖</p>
-
 <img src="https://github.com/maji-git/maji-git/assets/150906506/283596cf-bcae-4877-ad8e-842a90546979" height="200" align="right">
 
 hi maji! [himaji.xyz](https://himaji.xyz/)
-
-</div>
