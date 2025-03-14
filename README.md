@@ -6,6 +6,7 @@ Hello there! I'm maji. 👋 Web/Game Developer from <img src="https://github.com
 
 ## Featured Projects <img src="https://github.com/maji-git/maji-git/assets/150906506/cbf2b79c-3626-4a76-8158-34d99c762d12" height="32">
 
+- <img src="https://github.com/maji-git/packrtc-mpc/blob/main/mpc-addons/packrtc-mpc/PackRTCProtocol.svg" height="18"> [PackRTC](https://github.com/maji-git/packrtc) Godot Room based P2P Multiplayer solution
 - 🎹 [midi miniband](https://mawji.itch.io/midi-miniband) A little band that can play your MIDI files!
 - 🐇 [Usagikick!](https://mawji.itch.io/usagikick) Kick through and infinite tower, as a bunny!
 - <img src="https://github.com/maji-git/maji-git/assets/150906506/24d6917d-d9ec-425f-8322-d0d14c9dab99" height="18"> [MultiPlay Core](https://github.com/maji-git/multiplay-core) Multiplayer Framework for Godot
