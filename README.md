@@ -1,5 +1,3 @@
-![Frame 768](https://github.com/maji-git/maji-git/assets/150906506/853eb226-c99c-4ec0-ab5f-9239dcab80dc)
-
 <h1 align="center">hi, maji!</h1>
 
 Hello there! I'm maji. 👋 Web/Game Developer from <img src="https://github.com/maji-git/maji-git/assets/150906506/f5175bba-1e20-48f5-bade-cfd8fa97e96d" height="16"> Thailand. I like to experiment with web techologies, game development and anything software!
