@@ -1,7 +1,5 @@
 <img src="assets/mawji.svg" height="120">
 
-<br>
-
 # *MAWJI* <img src="assets/maw.svg" height="24"> <img src="assets/abs_maw.svg" height="24">
 
 hello there! i'm mawji.
