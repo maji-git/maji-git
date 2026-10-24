@@ -12,7 +12,7 @@ web, game and software developer from <img src="assets/flag_of_thailand.svg" hei
 
 ## *SOCIALS N LINKS* <img src="assets/abs_contacts.svg" height="16">
 
-- [My Blog <img src="assets/arrow_topright.svg" height="12">](https://himaji.xyz/)
+- [My Page <img src="assets/arrow_topright.svg" height="12">](https://mawji.page/)
 - [X/Twitter <img src="assets/arrow_topright.svg" height="12">](https://x.com/kunmawji)
 - [itch.io <img src="assets/arrow_right.svg" height="12">](https://itch.io/)
 - [Github](https://github.com/maji-git) << you are here >>
